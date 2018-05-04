@@ -1,2 +1,2 @@
-# amrnap.github.io
-AMR NAP
+# amr-ix.net
+Amaravati Internet Exchange
